@@ -1,5 +1,9 @@
 # Reposito-Remoto
-ENDPrueba de repositorio remoto
-Commit 1
+Prueba de repositorio remoto
 
-No se como editar este archivo
+Commit 1
+LOCAL
+Commit 2
+REMOTO
+
+
